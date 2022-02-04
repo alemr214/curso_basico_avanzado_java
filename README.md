@@ -2,7 +2,8 @@
 
 Este repositorio contiene ejercicios prácticos realizados en codigo durante el curso _Aprende Programación en Java (de Básico a Avanzado)_ para el aprendizaje del lenguaje de programación Java, impartido por el instructor **Alejandro Miguel Taboada Sanchez** en la plataforma de [Udemy](https://www.udemy.com/ "Udemy").
 
-##Tabla de contenido
+## Tabla de contenido
+
 [TOCM]
 
 ## Uso
